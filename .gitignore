@@ -283,4 +283,21 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Repository-specific ignores
+.Rproj.user
+.Rprofile
+.Rhistory
+.RData
+.Ruserdata
+.nfs*
+.cache
+.config
+.dockerignore
+.local
+.DS_Store
+.sh_history
+rsconnect/
+*_cache/
+epidemic_zones.RData
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,python,terraform
