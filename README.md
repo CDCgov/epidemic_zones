@@ -1,7 +1,5 @@
 # Defining influenza epidemic zones through temporal clustering of global surveillance data
 
-**“As a first step, this document is under governance review. When the review completes as appropriate per local and agency processes, the project team will be allowed to remove this notice. This material is draft.”**
-
 This repository contains all code used to conduct the analysis for the 
 journal article "Defining influenza epidemic zones through temporal clustering of global surveillance data".
 
