@@ -91,7 +91,7 @@ docker run -d \
   -e USERID=$(id -u) \
   -e GROUPID=$(id -g) \
   -v "$(pwd):/project" \
-  ncy6/influenza-clustering:v1.3
+  cdcgov/influenza-clustering:v1.3
 ```
 
 `USERID`/`GROUPID` make the container's `rstudio` user match your host user,
