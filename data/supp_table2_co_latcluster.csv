@@ -1,0 +1,255 @@
+"","COUNTRY","mean_lat","cluster_type","combined_cluster","orig_range","proxy_range","month_range","flag_lowdata_sum","flag_100detections_sum","flag_fewweeks_sum","flag_lowdata","flag_100detections","flag_fewweeks","total","matrix_pass","flag_lt5yrs","flag_matrixpass","sequential_flags"
+"1","Greenland",65.5158992992824,"proxy","A",NA,"November-May","[November-May]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Iceland",64.2758838902891,"original","A","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"3","Faroe Islands",62.0260824124709,"proxy","A",NA,"November-May","[November-May]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Finland",61.47160459249,"original","A","November-May","November-May","November-May",10,10,10,"Include","Include","Include",8,1,"Include","Yes","Include"
+"5","Norway",60.801978610339,"original","A","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"6","Estonia",59.1060706288232,"original","A","December-June","November-May","December-June",10,10,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"7","Sweden",58.8363497522387,"original","A","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"8","Latvia",56.8521345119339,"original","A","December-June","November-May","December-June",10,10,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"9","Denmark",55.8229215220534,"original","A","November-May","November-May","November-May",10,10,11,"Include","Include","Include",8,1,"Include","Yes","Include"
+"10","Lithuania",55.0703418620839,"original","A","November-May","November-May","November-May",10,10,11,"Include","Include","Include",8,1,"Include","Yes","Include"
+"11","Russian Federation",54.270717956757,"original","A","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"12","Isle of Man",54.1796875754155,"proxy","A",NA,"November-May","[November-May]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","Belarus",53.5636602837486,"original","A","December-June","November-May","December-June",9,9,11,"Include","Include","Include",8,1,"Include","Yes","Include"
+"14","Netherlands",52.075573539721,"original","A","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"15","Poland",51.7529752389597,"original","A","November-May","November-May","November-May",10,10,11,"Include","Include","Include",8,1,"Include","Yes","Include"
+"16","Germany",51.0282589039109,"original","A","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"17","Belgium",50.8358511405843,"original","A","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"18","Czechia",49.8510738002053,"original","A","November-May","November-May","November-May",10,10,11,"Include","Include","Include",8,1,"Include","Yes","Include"
+"19","Luxembourg",49.6177497631332,"original","A","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"20","Guernsey",49.4682920177575,"proxy","A",NA,"November-May","[November-May]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","Jersey",49.1936917831954,"proxy","A",NA,"November-May","[November-May]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","Ukraine",48.6455589420998,"original","A","November-May","November-May","November-May",10,10,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"23","Slovakia",48.5796227547602,"original","A","November-May","November-May","November-May",10,10,11,"Include","Include","Include",8,1,"Include","Yes","Include"
+"24","Austria",47.8198383532631,"original","A","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"25","Hungary",47.3461695827461,"original","A","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"26","Liechtenstein",47.1605492737954,"proxy","A",NA,"November-May","[November-May]",0,0,2,"Exclude","Exclude","Include",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"27","Republic of Moldova",47.1037804108718,"original","A","November-May","November-May","November-May",9,9,11,"Include","Include","Include",8,1,"Include","Yes","Include"
+"28","Switzerland",47.0782166530408,"original","A","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"29","France",47.0717875835342,"original","A","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"30","Saint Pierre and Miquelon",46.8795776367188,"proxy","A",NA,"November-May","[November-May]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","Slovenia",46.1623042783868,"original","A","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"32","Romania",45.6049423469497,"original","A","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"33","Croatia",45.1892846020533,"original","A","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"34","Serbia",44.6108499221523,"original","A","December-May","November-May","December-May",10,10,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"35","Bosnia and Herzegovina",44.2398186240147,"proxy","A",NA,"November-May","[November-May]",2,2,7,"Include","Include","Include",1,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"36","San Marino",43.9450581003254,"proxy","A",NA,"November-May","[November-May]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","Monaco",43.7372396275408,"proxy","A",NA,"November-May","[November-May]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","Albania",41.098668313285,"original","A","November-May","November-May","November-May",8,8,11,"Include","Include","Include",7,1,"Include","Yes","Include"
+"39","Armenia",40.2481600987202,"original","A","November-May","November-May","November-May",6,6,11,"Include","Include","Include",6,1,"Include","Yes","Include"
+"40","Greece",38.6846146814471,"original","A","December-June","November-May","December-June",10,10,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"41","Tunisia",35.8473173573938,"original","A","November-May","November-May","November-May",8,8,11,"Include","Include","Include",7,1,"Include","Yes","Include"
+"42","Lebanon",33.8577767906288,"original","A","November-May","November-May","November-May",6,6,7,"Include","Include","Include",6,1,"Include","Yes","Include"
+"43","Jamaica",18.0405208970375,"original","A","November-May","November-May","November-May",6,6,11,"Include","Include","Include",5,1,"Include","Yes","Include"
+"44","Martinique",14.6324989425542,"original","A","November-May","November-May","November-May",5,5,11,"Include","Include","Include",5,1,"Include","Yes","Include"
+"45","Åland Islands",NA,"proxy","A",NA,"November-May","[November-May]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","Svalbard and Jan Mayen Islands",NA,"proxy","A",NA,"November-May","[November-May]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","Gibraltar",NA,"proxy","A",NA,"November-May","[November-May]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","Ireland",53.1476917813182,"original","B","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"49","United Kingdom",52.5652095675875,"original","B","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"50","Mongolia",47.9347489433607,"original","B","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"51","Kazakhstan",46.9645636806365,"original","B","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"52","Canada",46.4316787707267,"original","B","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"53","Italy",42.8958381825061,"original","B","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"54","Bulgaria",42.7424881067448,"original","B","November-May","November-May","November-May",10,10,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"55","Kosovo",42.5606215659347,"proxy","B",NA,"November-May","[November-May]",3,4,5,"Include","Include","Include",3,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"56","Montenegro",42.5291616927396,"proxy","B",NA,"November-May","[November-May]",4,5,5,"Include","Include","Include",4,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"57","Andorra",42.5183561647889,"proxy","B",NA,"November-May","[November-May]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","Georgia",41.9123193434167,"original","B","November-May","November-May","November-May",9,9,11,"Include","Include","Include",8,1,"Include","Yes","Include"
+"59","Vatican",41.90268,"proxy","B",NA,"November-May","[November-May]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","Kyrgyzstan",41.88871386872,"original","B","October-April","November-May","October-April",5,5,11,"Include","Include","Include",5,1,"Include","Yes","Include"
+"61","North Macedonia",41.7727347103379,"proxy","B",NA,"November-May","[November-May]",3,3,6,"Include","Include","Include",3,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"62","Uzbekistan",40.661182526733,"proxy","B",NA,"November-May","[November-May]",2,2,11,"Include","Include","Include",2,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"63","Azerbaijan",40.3037547554248,"proxy","B",NA,"November-May","[November-May]",3,3,11,"Include","Include","Include",3,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"64","Spain",39.7368321937923,"original","B","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"65","North Korea",39.50077544664,"proxy","B",NA,"November-May","[November-May]",0,2,1,"Exclude","Include","Include",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"66","Portugal",39.4910925928853,"original","B","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"67","Turkey",39.4495655908215,"original","B","November-May","November-May","November-May",10,10,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"68","Tajikistan",39.0614681245033,"proxy","B",NA,"November-May","[November-May]",1,1,4,"Include","Include","Include",1,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"69","Turkmenistan",38.773936813072,"proxy","B",NA,"November-May","[November-May]",0,0,2,"Exclude","Exclude","Include",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"70","Azores",38.3231517165454,"proxy","B",NA,"November-May","[November-May]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","United States of America",37.6067229972149,"original","B","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"72","Republic of Korea",36.5943431634638,"original","B","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"73","Malta",35.9016785213794,"original","B","November-April","November-May","November-April",7,7,10,"Include","Include","Include",6,1,"Include","Yes","Include"
+"74","Japan",35.5734508342241,"original","B","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"75","Algeria",35.5698583185275,"original","B","October-April","November-May","October-April",6,6,9,"Include","Include","Include",5,1,"Include","Yes","Include"
+"76","Syria",35.1404784453502,"proxy","B",NA,"November-May","[November-May]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","Cyprus",34.9986975160809,"proxy","B",NA,"November-May","[November-May]",3,4,5,"Include","Include","Include",3,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"78","Afghanistan",34.5970404122593,"proxy","B",NA,"November-May","[November-May]",5,5,9,"Include","Include","Include",4,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"79","Iran",34.4134634915663,"original","B","October-April","November-May","October-April",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"80","Iraq",33.5987717258313,"proxy","B",NA,"November-May","[November-May]",6,6,11,"Include","Include","Include",4,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"81","Morocco",33.3915410530729,"original","B","October-April","November-May","October-April",9,9,11,"Include","Include","Include",8,1,"Include","Yes","Include"
+"82","Madeira Islands",32.7702433268229,"proxy","B",NA,"November-May","[November-May]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","Bermuda",32.35369768406,"proxy","B",NA,"November-May","[November-May]",0,0,0,"Exclude","Exclude","Exclude",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"84","Israel",32.1090608928312,"original","B","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"85","Jordan",32.0295655380633,"original","B","November-May","November-May","November-May",9,9,11,"Include","Include","Include",8,1,"Include","Yes","Include"
+"86","China",31.8922833273433,"original","B","November-May","November-May","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"87","Libya",31.8885145631723,"proxy","B",NA,"November-May","[November-May]",1,1,2,"Include","Include","Include",1,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"88","Palestine",31.7639519462521,"proxy","B",NA,"November-May","[November-May]",3,3,4,"Include","Include","Include",3,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"89","Pakistan",30.2955529295816,"original","B","October-April","November-May","October-April",9,9,11,"Include","Include","Include",7,1,"Include","Yes","Include"
+"90","Kuwait",29.2002068870954,"proxy","B",NA,"November-May","[November-May]",3,3,3,"Include","Include","Include",2,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"91","Canary Islands",28.3558027186292,"proxy","B",NA,"November-May","[November-May]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92","Western Sahara",26.0656019650706,"proxy","B",NA,"November-May","[November-May]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"93","Bahamas",25.4301996445229,"proxy","B",NA,"November-May","[November-May]",0,0,0,"Exclude","Exclude","Exclude",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"94","United Arab Emirates",24.9926614580435,"proxy","B",NA,"November-May","[November-May]",2,2,2,"Include","Include","Include",1,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"95","Mexico",21.3016303637883,"original","B","October-April","November-May","October-April",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"96","China, Macao Special Administrative Region",NA,"proxy","B",NA,"November-May","[November-May]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"97","Egypt",29.8895356522127,"original","C","October-April","September-March","October-April",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"98","Bahrain",26.1730827174914,"original","C","September-March","September-March","September-March",7,7,10,"Include","Include","Include",6,1,"Include","Yes","Include"
+"99","Qatar",25.304455295766,"original","C","October-April","September-March","October-April",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"100","Taiwan",24.5787189245687,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"101","Saudi Arabia",23.7607992378465,"proxy","C",NA,"September-March","[September-March]",5,5,5,"Include","Include","Include",4,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"102","Oman",23.2743995763176,"original","C","October-February","September-March","October-February",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"103","China, Hong Kong SAR",22.3339379789214,"original","C","January-May","September-March","January-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"104","Turks and Caicos Islands",21.7468931124792,"proxy","C",NA,"September-March","[September-March]",0,0,0,"Exclude","Exclude","Exclude",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"105","India",21.1571710618186,"original","C","July-October","September-March","July-October",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"106","Cayman Islands",19.3118547241685,"proxy","C",NA,"September-March","[September-March]",1,1,2,"Include","Include","Include",1,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"107","Haiti",18.7628930392562,"proxy","C",NA,"September-March","[September-March]",3,3,5,"Include","Include","Include",3,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"108","British Virgin Islands",18.42693,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"109","Puerto Rico",18.313933440449,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"110","Anguilla",18.2089771315655,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"111","Saint Martin",18.06819,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"112","Sint Maarten",18.0456303196883,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"113","US Virgin Islands",17.9133911260471,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"114","Mauritania",17.9090048255713,"proxy","C",NA,"September-March","[September-March]",0,0,6,"Exclude","Exclude","Include",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"115","Saint Barthélemy",17.89618,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"116","Lao PDR",17.8183443946053,"original","C","August-February","September-March","August-February",10,10,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"117","Bonaire, Sint Eustatius and Saba",17.5018882751465,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"118","Belize",17.4712113664461,"proxy","C",NA,"September-March","[September-March]",0,0,5,"Exclude","Exclude","Include",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"119","Saint Kitts and Nevis",17.2893242771036,"proxy","C",NA,"September-March","[September-March]",0,0,0,"Exclude","Exclude","Exclude",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"120","Nevis",17.1491701943534,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"121","Montserrat",16.7700528037383,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"122","Guadeloupe",16.2087530256133,"proxy","C",NA,"September-March","[September-March]",2,2,11,"Include","Include","Include",2,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"123","Cape Verde",15.6798856205824,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"124","Dominica",15.3825144158911,"proxy","C",NA,"September-March","[September-March]",0,0,3,"Exclude","Exclude","Include",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"125","Eritrea",15.2212962403993,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"126","Northern Mariana Islands",15.1544132015185,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"127","Guatemala",14.7650271738749,"original","C","January-July","September-March","January-July",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"128","Sudan",14.6707343768139,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"129","Senegal",14.6511146008453,"original","C","July-December","September-March","July-December",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"130","Yemen",14.4971173209503,"proxy","C",NA,"September-March","[September-March]",1,1,3,"Include","Include","Include",1,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"131","Niger",14.0807485881756,"proxy","C",NA,"September-March","[September-March]",4,4,11,"Include","Include","Include",3,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"132","Saint Lucia",13.9448762102336,"proxy","C",NA,"September-March","[September-March]",0,0,4,"Exclude","Exclude","Include",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"133","Guam",13.4762090763087,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"134","Gambia",13.4076860211839,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"135","Saint Vincent and the Grenadines",13.1518859169488,"proxy","C",NA,"September-March","[September-March]",0,0,3,"Exclude","Exclude","Include",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"136","Barbados",13.1143261082539,"proxy","C",NA,"September-March","[September-March]",2,2,7,"Include","Include","Include",2,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"137","Mali",12.9649647930023,"proxy","C",NA,"September-March","[September-March]",4,4,10,"Include","Include","Include",2,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"138","Aruba",12.5210828799958,"proxy","C",NA,"September-March","[September-March]",1,1,3,"Include","Include","Include",1,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"139","Nicaragua",12.3566264391245,"original","C","July-December","September-March","July-December",9,9,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"140","Burkina Faso",12.1515621387065,"proxy","C",NA,"September-March","[September-March]",5,5,9,"Include","Include","Include",4,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"141","Curacao",12.1353747734963,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"142","Grenada",12.1346300217855,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"143","Guinea-Bissau",11.9492634612661,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"144","Chad",11.5678162703836,"proxy","C",NA,"September-March","[September-March]",0,0,4,"Exclude","Exclude","Include",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"145","Djibouti",11.5528939032223,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"146","Trinidad and Tobago",10.4776690750635,"proxy","C",NA,"September-March","[September-March]",0,0,5,"Exclude","Exclude","Include",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"147","Costa Rica",9.97075341876648,"original","C","October-January","September-March","October-January",10,10,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"148","Guinea",9.71781652688519,"proxy","C",NA,"September-March","[September-March]",2,2,4,"Include","Include","Include",2,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"149","Ethiopia",9.30034594331334,"original","C","October-April","September-March","October-April",7,7,10,"Include","Include","Include",6,1,"Include","Yes","Include"
+"150","Marshall Islands",7.66486229930097,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"151","Benin",7.65130912942197,"proxy","C",NA,"September-March","[September-March]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"152","Togo",6.84830832106712,"original","C","September-January","September-March","September-January",7,7,11,"Include","Include","Include",6,1,"Include","Yes","Include"
+"153","Côte d'Ivoire",6.51136304441107,"original","C","September-December","September-March","September-December",10,10,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"154","Ghana",6.36738515782326,"original","C","July-November","September-March","July-November",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"155","Suriname",5.7984119786828,"proxy","C",NA,"September-March","[September-March]",1,1,7,"Include","Include","Include",1,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"156","Cameroon",5.42405990808558,"original","C","August-January","September-March","August-January",10,10,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"157","French Guiana",5.01938151235903,"proxy","C",NA,"September-March","[September-March]",7,7,11,"Include","Include","Include",7,0,"Include","No","Exclude: no data for comparison matrix year"
+"158","Malaysia",3.48283929524781,"original","C","January-July","September-March","January-July",6,6,11,"Include","Include","Include",5,1,"Include","Yes","Include"
+"159","Singapore",1.32566373660891,"original","C","December-March","September-March","December-March",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"160","Gabon",-0.151389080719394,"proxy","C",NA,"September-March","[September-March]",0,0,2,"Exclude","Exclude","Include",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"161","Ecuador",-1.40439215391739,"original","C","December-April","September-March","December-April",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"162","Congo (DRC)",-4.72548075861744,"original","C","November-April","September-March","November-April",6,6,11,"Include","Include","Include",5,1,"Include","Yes","Include"
+"163","Indonesia",-4.80576258901759,"original","C","November-May","September-March","November-May",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"164","Tanzania",-5.89292909601775,"original","C","December-June","September-March","December-June",11,11,11,"Include","Include","Include",9,1,"Include","Yes","Include"
+"165","Papua New Guinea",-7.34652469183013,"proxy","C",NA,"September-March","[September-March]",1,1,7,"Include","Include","Include",1,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"166","Timor-Leste",-8.68760228431893,"proxy","C",NA,"September-March","[September-March]",3,3,4,"Include","Include","Include",3,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"167","Mozambique",-19.94196122342,"proxy","C",NA,"September-March","[September-March]",3,3,9,"Include","Include","Include",3,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"168","Nepal",27.5872334752935,"original","D","January-April","June-November","January-April",9,9,9,"Include","Include","Include",9,1,"Include","Yes","Include"
+"169","Bhutan",27.2682928339165,"original","D","February-May","June-November","February-May",8,8,10,"Include","Include","Include",8,1,"Include","Yes","Include"
+"170","Cuba",22.2215980027644,"original","D","June-December","June-November","June-December",10,10,10,"Include","Include","Include",10,1,"Include","Yes","Include"
+"171","Dominican Republic",18.7688377498313,"proxy","D",NA,"June-November","[June-November]",2,2,10,"Include","Include","Include",2,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"172","Myanmar",18.5406666952431,"original","D","June-December","June-November","June-December",5,5,5,"Include","Include","Include",5,1,"Include","Yes","Include"
+"173","Antigua and Barbuda",17.127167190711,"proxy","D",NA,"June-November","[June-November]",0,0,0,"Exclude","Exclude","Exclude",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"174","Honduras",14.8895576069525,"original","D","May-November","June-November","May-November",8,8,10,"Include","Include","Include",8,1,"Include","Yes","Include"
+"175","Viet Nam",14.6745036896141,"original","D","May-September","June-November","May-September",10,10,10,"Include","Include","Include",10,1,"Include","Yes","Include"
+"176","Thailand",13.7706098986053,"original","D","June-November","June-November","June-November",10,10,10,"Include","Include","Include",10,1,"Include","Yes","Include"
+"177","Philippines",12.2204078639451,"original","D","June-November","June-November","June-November",10,10,10,"Include","Include","Include",10,1,"Include","Yes","Include"
+"178","Cambodia",11.6983357608242,"original","D","June-December","June-November","June-December",10,10,10,"Include","Include","Include",10,1,"Include","Yes","Include"
+"179","Venezuela",9.86071190086528,"proxy","D",NA,"June-November","[June-November]",4,4,8,"Include","Include","Include",4,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"180","Sierra Leone",8.38166280004714,"proxy","D",NA,"June-November","[June-November]",0,0,7,"Exclude","Exclude","Include",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"181","Nigeria",7.93486732021833,"proxy","D",NA,"June-November","[June-November]",4,4,10,"Include","Include","Include",4,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"182","Palau",7.34607764594639,"proxy","D",NA,"June-November","[June-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"183","Sri Lanka",7.27177833727674,"original","D","April-July","June-November","April-July",10,10,10,"Include","Include","Include",10,1,"Include","Yes","Include"
+"184","Micronesia",7.16131233948566,"proxy","D",NA,"June-November","[June-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"185","South Sudan",6.61446641754425,"proxy","D",NA,"June-November","[June-November]",1,1,2,"Include","Include","Include",1,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"186","Guyana",6.61218752919126,"proxy","D",NA,"June-November","[June-November]",1,1,1,"Include","Include","Include",1,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"187","Liberia",6.36391946088498,"proxy","D",NA,"June-November","[June-November]",0,0,1,"Exclude","Exclude","Include",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"188","Colombia",5.94605532580414,"original","D","April-August","June-November","April-August",10,10,10,"Include","Include","Include",10,1,"Include","Yes","Include"
+"189","Central African Republic",4.96409836630594,"proxy","D",NA,"June-November","[June-November]",4,4,8,"Include","Include","Include",4,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"190","Somalia",4.80800444045945,"proxy","D",NA,"June-November","[June-November]",0,0,1,"Exclude","Exclude","Include",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"191","Brunei",4.54816980021341,"proxy","D",NA,"June-November","[June-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"192","Maldives",3.57217180430999,"proxy","D",NA,"June-November","[June-November]",4,4,6,"Include","Include","Include",4,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"193","Equatorial Guinea",2.47087870259433,"proxy","D",NA,"June-November","[June-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"194","Kiribati",1.44362034259659,"proxy","D",NA,"June-November","[June-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"195","Sao Tome and Principe",0.858782460743731,"proxy","D",NA,"June-November","[June-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"196","Uganda",0.589970913169392,"original","D","June-December","June-November","June-December",9,9,10,"Include","Include","Include",9,1,"Include","Yes","Include"
+"197","Nauru",-0.529176632470476,"proxy","D",NA,"June-November","[June-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"198","Kenya",-0.876501111905563,"original","D","February-April","June-November","February-April",7,7,8,"Include","Include","Include",7,1,"Include","Yes","Include"
+"199","Rwanda",-2.03449932870729,"proxy","D",NA,"June-November","[June-November]",2,2,10,"Include","Include","Include",2,0,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"200","Burundi",-3.34891869568574,"proxy","D",NA,"June-November","[June-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"201","Republic of Congo",-3.90555320986412,"proxy","D",NA,"June-November","[June-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"202","Seychelles",-4.64585842177071,"proxy","D",NA,"June-November","[June-November]",0,0,2,"Exclude","Exclude","Include",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"203","Peru",-11.1389758231935,"original","D","April-October","June-November","April-October",10,10,10,"Include","Include","Include",10,1,"Include","Yes","Include"
+"204","Zambia",-13.8575380194501,"original","D","June-December","June-November","June-December",8,8,10,"Include","Include","Include",8,1,"Include","Yes","Include"
+"205","Brazil",-17.6851747465369,"original","D","March-September","June-November","March-September",10,10,10,"Include","Include","Include",10,1,"Include","Yes","Include"
+"206","Madagascar",-18.9099688354582,"original","D","January-July","June-November","January-July",10,10,10,"Include","Include","Include",10,1,"Include","Yes","Include"
+"207","Mauritius",-20.2241067114679,"original","D","February-September","June-November","February-September",5,5,8,"Include","Include","Include",5,1,"Include","Yes","Include"
+"208","New Caledonia",-21.8534208120432,"original","D","June-October","June-November","June-October",8,8,10,"Include","Include","Include",8,1,"Include","Yes","Include"
+"209","Bangladesh",23.6531554684253,"original","E","April-October","May-November","April-October",10,10,10,"Include","Include","Include",10,1,"Include","Yes","Include"
+"210","El Salvador",13.6980456525829,"original","E","May-August","May-November","May-August",8,8,10,"Include","Include","Include",8,1,"Include","Yes","Include"
+"211","Panama",8.85936723739476,"original","E","May-September","May-November","May-September",8,8,10,"Include","Include","Include",8,1,"Include","Yes","Include"
+"212","Chagos Archipelago",-7.32144998101627,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"213","Tuvalu",-8.28866950378828,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"214","Tokelau",-8.89876801869159,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"215","Solomon Islands",-9.26345337565958,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"216","Christmas Island",-10.42172,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"217","Angola",-10.4453930519641,"proxy","E",NA,"May-November","[May-November]",0,0,2,"Exclude","Exclude","Include",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"218","Comoros",-11.9801428979431,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"219","Cocos Islands",-12.15681,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"220","Mayotte",-12.7938684039765,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"221","Wallis and Futuna",-13.6628837102658,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"222","Samoa",-13.8042544152513,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"223","Malawi",-14.257526003629,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"224","American Samoa",-14.3093123010279,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"225","Saint Helena",-15.9637276785714,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"226","Vanuatu",-16.9886811421126,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"227","Bolivia",-17.3852121430783,"original","E","March-August","May-November","March-August",10,10,10,"Include","Include","Include",10,1,"Include","Yes","Include"
+"228","French Polynesia",-17.4619407267505,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"229","Fiji",-17.8230513332832,"original","E","February-June","May-November","February-June",5,5,9,"Include","Include","Include",5,1,"Include","Yes","Include"
+"230","Zimbabwe",-18.7161190071618,"proxy","E",NA,"May-November","[May-November]",0,0,1,"Exclude","Exclude","Include",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"231","Niue",-19.05294,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"232","Tonga",-20.7783686668926,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"233","Reunion",-21.0921222739057,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"234","Cook Islands",-21.2075,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"235","Namibia",-21.8204558595698,"proxy","E",NA,"May-November","[May-November]",0,0,1,"Exclude","Exclude","Include",NA,NA,"Exclude","Not applicable: too few time windows for analysis","Exclude: too few time windows"
+"236","Botswana",-23.2649025306545,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"237","Pitcairn Islands",-25.06597,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"238","Paraguay",-25.2913569414334,"original","E","May-September","May-November","May-September",10,10,10,"Include","Include","Include",10,1,"Include","Yes","Include"
+"239","Swaziland",-26.4595293245817,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"240","South Africa",-28.3958468454178,"original","E","April-October","May-November","April-October",10,10,10,"Include","Include","Include",10,1,"Include","Yes","Include"
+"241","Norfolk Island",-29.05459,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"242","Lesotho",-29.417871145201,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"243","Argentina",-32.6001470719971,"original","E","May-November","May-November","May-November",10,10,10,"Include","Include","Include",10,1,"Include","Yes","Include"
+"244","Australia",-33.1296758510064,"original","E","May-November","May-November","May-November",10,10,10,"Include","Include","Include",10,1,"Include","Yes","Include"
+"245","Chile",-33.4775732152206,"original","E","May-November","May-November","May-November",10,10,10,"Include","Include","Include",10,1,"Include","Yes","Include"
+"246","Uruguay",-34.084601477315,"original","E","May-November","May-November","May-November",6,6,10,"Include","Include","Include",6,1,"Include","Yes","Include"
+"247","New Zealand",-39.3683309152828,"original","E","May-November","May-November","May-November",10,10,10,"Include","Include","Include",10,1,"Include","Yes","Include"
+"248","French Southern and Antarctic Lands",-49.0592651367188,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"249","Falkland Islands",-51.69382,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"250","Heard Island and McDonald Islands",-53.0755658467611,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"251","South Georgia",-54.3364894520153,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"252","South Sandwich Islands",-58.4231195449829,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"253","Antarctica",-72.5121158847178,"proxy","E",NA,"May-November","[May-November]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"254","United States Minor Outlying Islands",NA,"proxy",NA,NA,NA,"[NA]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
