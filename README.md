@@ -3,7 +3,7 @@
 This repository contains all code used to conduct the analysis for the 
 journal article "Defining influenza epidemic zones through temporal clustering of global surveillance data".
 
-Preprint available at [https://www.medrxiv.org/content/10.64898/2026.04.17.26351048v1](https://www.medrxiv.org/content/10.64898/2026.04.17.26351048v1).
+Preprint available at [https://www.medrxiv.org/content/10.64898/2026.04.17.26351048v2](https://www.medrxiv.org/content/10.64898/2026.04.17.26351048v2).
 
 ## Repository Contents and Software Notes
 
